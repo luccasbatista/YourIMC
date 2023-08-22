@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lb_futuro_dev">LB futuro DEV!</string>
+    <string name="calcular">Calcular</string>
+    <string name="seu_imc">Seu IMC é:</string>
+</resources>

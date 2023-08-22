@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMCdoLB</string>
+    <string name="lb_futuro_dev">LB futuro DEV!</string>
+    <string name="calcular">Calcular</string>
+    <string name="seu_imc">Seu IMC é:</string>
+    <string name="message_classificacao">Classificação: %1$s!</string>
+    <string name="tabela_de_refer_ncia">TABELA DE REFERÊNCIA:</string>
+    <string name="tabela">TABELA</string>
+    <string name="tabelaIMC">tabela</string>
+    <string name="by_lb">By LB</string>
+</resources>
