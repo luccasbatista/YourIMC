@@ -4,7 +4,7 @@ onde eu sai do absoluto zero da programação e consegui terminar e estilizar em
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/SplashScreen.gif" width="260">&emsp;<img src="/result/Screenshot_20230821_223115.png" width="260">&emsp;<img src="/result/Screenshot_20230821_223138.png" width="260">&emsp;
+<img src="/result/SplashScreen.gif" width="260">&emsp;<img src="/result/Screenshot_20230821_223115.png" width="260">&emsp;<img src="/result/IMCResultado.gif" width="260">&emsp;
 * Kotlin;
 * Activity para host de telas;
 * ViewGroup:
