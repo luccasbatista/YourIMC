@@ -23,6 +23,7 @@ onde eu sai do absoluto zero da programação e consegui terminar e estilizar em
 
 ### TO-DO's
 - Dar continuidade a estilização e acrescentar campos de informações do usuário para um resultado mais detalhado.
+- Implementar arquitetura afim de organizar melhor o código e tornar o app escalável.
 
 ## Author
 Luccas Batista
